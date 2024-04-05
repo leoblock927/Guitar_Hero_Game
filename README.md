@@ -1,3 +1,4 @@
+# Guitar Hero
 This game is a project I created during school over the period of 1 month, using Java and JFrame to output a interactable game into a window. The game keeps score whether the buttons are hit at the correct timing, or hit at all, depending on whether there is a tile in line.
 
 ![screenshot1](https://github.com/leoblock927/guitarHero/assets/166082102/4eca0f15-2e54-4588-8fa4-8708f1f11266)
